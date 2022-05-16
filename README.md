@@ -2,7 +2,7 @@
 This repository contains code and trained models for the paper "Riemannian data-dependent randomized smoothing for neural network certification" by Pol Labarbarie, Hatem Hajri and Marc Arnaudon.
 
 <p>
-<img src="figures/merge_2D_data_small.jpg" height="400" width="896" >
+<img src="figures/merge_2D_data_small.jpg" height="300" width="896" >
 </p>
 
 
