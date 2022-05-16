@@ -1,9 +1,7 @@
 # RDDRS
 This repository contains code and trained models for the paper "Riemannian data-dependent randomized smoothing for neural network certification" by Pol Labarbarie, Hatem Hajri and Marc Arnaudon.
 
-<p>
-<img src="figures/merge_2D_data.png" height="448" width="896" >
-</p>
+![plot](figures/merge_2D_data.png)
 
 ## How does it work?
 
