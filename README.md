@@ -1,5 +1,5 @@
 # RDDRS
-This repository contains code and trained models for the paper "Riemannian data-dependent randomized smoothing for neural network certification" by Pol Labarbarie, Hatem Hajri and Marc Arnaudon.
+This repository contains code and trained models for the paper "Riemannian data-dependent randomized smoothing for neural network certification" by Pol Labarbarie, Hatem Hajri and Marc Arnaudon. ["Here"](https://arxiv.org/pdf/2206.10235.pdf).
 
 <p>
 <img src="figures/merge_2D_data_small.jpg" height="300" width="896" >
@@ -29,7 +29,7 @@ Now you can install the requirments packages by running:
 
 ### Scripts
 
-* In the program [main.py](code/main.py), you may choose if you want to perform a training or directrly use a trained model and then you may choose what certification method you want use:
+* In the program [main.py](code/main.py), you may choose if you want to perform a training or directrly use a trained model and then you may choose what certification method you want to use:
 
 ```python code/main.py ```  
 
@@ -37,4 +37,11 @@ Now you can install the requirments packages by running:
 
 ## Citation
 
-If you use this repo, please cite us.
+If you use this repo, please cite us. 
+
+@article{labarbarie2022riemannian,
+  title={Riemannian data-dependent randomized smoothing for neural networks certification},
+  author={Labarbarie, Pol and Hajri, Hatem and Arnaudon, Marc},
+  journal={arXiv preprint arXiv:2206.10235},
+  year={2022}
+}
