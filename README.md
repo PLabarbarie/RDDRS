@@ -1,5 +1,5 @@
 # RDDRS
-This repository contains code and trained models for the paper "Riemannian data-dependent randomized smoothing for neural network certification" by Pol Labarbarie, Hatem Hajri and Marc Arnaudon. [Here](https://arxiv.org/pdf/2206.10235.pdf).
+This repository contains code and trained models for the paper "Riemannian data-dependent randomized smoothing for neural network certification" presented by Pol Labarbarie, Hatem Hajri and Marc Arnaudon at ICML workshop on [New Frontiers in Adversarial Machine Learning 2022](https://advml-frontier.github.io/). [Here](https://arxiv.org/pdf/2206.10235.pdf).
 
 <p>
 <img src="figures/merge_2D_data_small.jpg" height="300" width="896" >
