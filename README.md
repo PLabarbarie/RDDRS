@@ -42,6 +42,6 @@ If you use this repo, please cite us.
 @article{labarbarie2022riemannian,
   title={Riemannian data-dependent randomized smoothing for neural networks certification},
   author={Labarbarie, Pol and Hajri, Hatem and Arnaudon, Marc},
-  journal={arXiv preprint arXiv:2206.10235},
+  journal = {International Conference on Machine Learning Workshop on New Frontiers in Adversarial Machine Learning},
   year={2022}
 }
